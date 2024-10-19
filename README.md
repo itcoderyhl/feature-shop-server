@@ -69,5 +69,5 @@
 ![](https://github.com/itcoderyhl/feature-shop-server/blob/main/images/32.png)
 ![](https://github.com/itcoderyhl/feature-shop-server/blob/main/images/33.png)
 ![](https://github.com/itcoderyhl/feature-shop-server/blob/main/images/34.png)
-![](https://github.com/itcoderyhl/feature-shop-server/blob/main/images/34.png)
+![](https://github.com/itcoderyhl/feature-shop-server/blob/main/images/35.png)
 
